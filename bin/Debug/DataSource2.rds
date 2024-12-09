@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DataSource2">
+  <ConnectionProperties>
+    <Extension>OLEDB-MD</Extension>
+    <ConnectString>Data Source=NB-YULIA;Initial Catalog=Test_Cube</ConnectString>
+    <Prompt>Specify a user name and password for data source DataSource2:</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>b065478d-6794-4729-be4f-c9bd1fdc2561</DataSourceID>
+</RptDataSource>
